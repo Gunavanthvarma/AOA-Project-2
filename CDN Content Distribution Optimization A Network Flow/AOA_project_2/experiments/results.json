@@ -1,0 +1,46 @@
+{
+  "small_scale": [
+    {"elapsed_ms": 0.0000, "flow": 70, "cost": 400, "total_nodes": 8, "num_edges": 10}
+    ,
+    {"elapsed_ms": 0.0000, "flow": 70, "cost": 400, "total_nodes": 8, "num_edges": 10}
+    ,
+    {"elapsed_ms": 0.0000, "flow": 70, "cost": 400, "total_nodes": 8, "num_edges": 10}
+    ,
+    {"elapsed_ms": 0.0000, "flow": 70, "cost": 400, "total_nodes": 8, "num_edges": 10}
+    ,
+    {"elapsed_ms": 0.0000, "flow": 70, "cost": 400, "total_nodes": 8, "num_edges": 10}
+
+  ],
+  "medium_scale": [
+    {"elapsed_ms": 1.0000, "flow": 285, "cost": 1599, "total_nodes": null, "num_edges": null}
+    ,
+    {"elapsed_ms": 0.0000, "flow": 285, "cost": 1599, "total_nodes": null, "num_edges": null}
+    ,
+    {"elapsed_ms": 1.0000, "flow": 285, "cost": 1599, "total_nodes": null, "num_edges": null}
+    ,
+    {"elapsed_ms": 1.0000, "flow": 285, "cost": 1599, "total_nodes": null, "num_edges": null}
+    ,
+    {"elapsed_ms": 0.0000, "flow": 285, "cost": 1599, "total_nodes": null, "num_edges": null}
+
+  ],
+  "large_scale": [
+    {"elapsed_ms": 8.0000, "flow": 2093, "cost": 8061, "total_nodes": 72, "num_edges": 836}
+    ,
+    {"elapsed_ms": 4.0000, "flow": 2093, "cost": 8061, "total_nodes": 72, "num_edges": 836}
+    ,
+    {"elapsed_ms": 3.0000, "flow": 2093, "cost": 8061, "total_nodes": 72, "num_edges": 836}
+
+  ],
+  "scalability": [
+    {"scale": 1, "num_origins": 2, "num_caches": 10, "num_edges": 20, "total_nodes": 34, "elapsed_time_ms": 0.0000, "flow": 733, "cost": 3609}
+    ,
+    {"scale": 2, "num_origins": 3, "num_caches": 15, "num_edges": 30, "total_nodes": 50, "elapsed_time_ms": 2.0000, "flow": 1290, "cost": 5303}
+    ,
+    {"scale": 3, "num_origins": 4, "num_caches": 20, "num_edges": 40, "total_nodes": 66, "elapsed_time_ms": 3.0000, "flow": 1710, "cost": 5570}
+    ,
+    {"scale": 4, "num_origins": 5, "num_caches": 25, "num_edges": 50, "total_nodes": 82, "elapsed_time_ms": 5.0000, "flow": 2172, "cost": 6612}
+    ,
+    {"scale": 5, "num_origins": 6, "num_caches": 30, "num_edges": 60, "total_nodes": 98, "elapsed_time_ms": 7.0000, "flow": 2615, "cost": 7265}
+
+  ]
+}
